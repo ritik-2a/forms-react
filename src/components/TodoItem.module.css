@@ -1,0 +1,10 @@
+.rkButton{
+    width: 75px;
+    height: 35px;
+}
+
+.rkRow{
+    margin: 1rem;
+    font-size: large;
+    font-weight: 500;
+}
